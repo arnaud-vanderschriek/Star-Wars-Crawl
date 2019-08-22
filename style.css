@@ -11,7 +11,10 @@ overflow: hidden;
 
 background: #000;
 }
-
+.title
+{
+text-align: center;
+}
 .star-wars
 {
 display: flex;
